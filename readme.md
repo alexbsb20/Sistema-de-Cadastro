@@ -4,6 +4,5 @@
 >
 >para rodar este projeto na sua maquina, por favor digite:
 >
->'''
-> node.js
->'''
+> node app.js
+
