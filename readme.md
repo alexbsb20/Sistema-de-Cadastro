@@ -3,6 +3,6 @@
 >Status do projeto: em desenvolvimento
 >
 >para rodar este projeto na sua maquina, por favor digite:
->
+// COMENTARIO
 > node app.js
 
